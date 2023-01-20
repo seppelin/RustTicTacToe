@@ -1,7 +1,6 @@
 mod board;
 mod p2_game;
 mod cmp_game;
-mod algo;
 
 pub use p2_game::P2Scene;
 pub use board::*;
